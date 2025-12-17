@@ -1,0 +1,2 @@
+# ANALISIS-DENOISING-FILTERING-DAN-DETEKSI-FREKUENSI-PADA-REKAMAN-SUARA-DI-INDOOR-DAN-OUTDOOR-
+Disusun untuk memenuhi Project Tugas Akhir Mata Kuliah Pengolahan Sinyal Digital disusun oleh Silvia Tri Maharani (24031554028), Sabrina Putri Amalia (24031554055) dan Variesa Sabita Mumtaza Habib (24031554083) Prgram Studi Sains Data Semester 3 Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Negeri Surabaya 2025
